@@ -1,4 +1,10 @@
-## Hi there 👋
+![Bannière LinkedIn](https://github.com/Cha-Dbs/Cha-Dbs/assets/166416205/a7b9a3d6-8735-4c82-8c5d-d9008045d372)
+## Hello there 👋 <br> I'm Charlotte <br> I’m looking for an apprenticeship as UX/UI Designer 
+
+![GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNiNmRicDVqbWozNGV4ZTFmczF5a3prMGZ2Zm03ZHp5azZ4ZWx6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif)
+
+
+
 
 <!--
 **Cha-Dbs/Cha-Dbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
