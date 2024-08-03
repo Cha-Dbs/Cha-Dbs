@@ -1,4 +1,5 @@
-![Bannière LinkedIn (1)](https://github.com/Cha-Dbs/Cha-Dbs/assets/166416205/17327d23-6858-4918-8b72-c700bd42ffc3)
+![BannièreLK](https://github.com/user-attachments/assets/3f36eb5c-6525-4c67-b3fc-bcc20c53ba50)
+)
 ## Hello there 👋 <br> I'm Charlotte <br> I’m looking for an apprenticeship as UX/UI Designer 
 
 <p align="center">
