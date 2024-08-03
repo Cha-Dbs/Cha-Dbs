@@ -5,7 +5,7 @@ Je m'appelle Charlotte
 
 Je suis actuellement en pleine immersion dans le monde de la programmation. <br> Forte de mon appétence et de mes compétences en marketing digital, je cherche à me spécialser dans le Design UX/UI. Je souhaiterai trouver un entreprise créative et novatrice pour effectuer une alternance avec l'Ecole O'Clock dès la rentrée 2024. 
 
-Vous pouvais retrouver les v1 et v2 de mon premier site web en autodidacte. 
+Vous pouvez retrouver les v1 et v2 de mon premier site web en autodidacte. 
 Belle visite à vous et au plaisir 
 
 <p align="center">
