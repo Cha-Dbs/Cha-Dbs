@@ -1,5 +1,5 @@
 ![BannièreLK](https://github.com/user-attachments/assets/3f36eb5c-6525-4c67-b3fc-bcc20c53ba50)
-)
+
 ## Hello there 👋 <br> I'm Charlotte <br> I’m looking for an apprenticeship as UX/UI Designer 
 
 <p align="center">
