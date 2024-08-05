@@ -2,7 +2,7 @@
 
 ## Hello there 👋 
 Je m'appelle Charlotte 
-On me surnomme Cha'
+<br> On me surnomme Cha'
 
 Je suis actuellement en pleine immersion dans le monde de la programmation. <br> Forte de mon appétence et de mes compétences en marketing digital, je cherche à me spécialser dans le Design UX/UI. Je souhaiterai trouver un entreprise créative et novatrice pour effectuer une alternance avec l'Ecole O'Clock dès la rentrée 2024. 
 
